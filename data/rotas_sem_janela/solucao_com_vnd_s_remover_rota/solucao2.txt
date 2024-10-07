@@ -1,0 +1,546 @@
+Solução:
+Função objetivo tempo:  11223.616666666667
+Custo sem penalidade tempo:  3223.616666666667
+Função objetivo distancia:  1484366
+Custo sem penalidade distancia:  1476366
+Número de rotas:  8
+Rotas:
+
+Rota:  1
+Tamanho rota:  21
+
+Rota:
+ID do cliente:  28
+Tempo de atemdimento do cliente:  66.7
+ID do cliente:  27
+Tempo de atemdimento do cliente:  81.2
+ID do cliente:  26
+Tempo de atemdimento do cliente:  107.10000000000001
+ID do cliente:  138
+Tempo de atemdimento do cliente:  148.63333333333335
+ID do cliente:  32
+Tempo de atemdimento do cliente:  165.41666666666669
+ID do cliente:  20
+Tempo de atemdimento do cliente:  171.7166666666667
+ID do cliente:  22
+Tempo de atemdimento do cliente:  191.00000000000003
+ID do cliente:  4
+Tempo de atemdimento do cliente:  193.16666666666669
+ID do cliente:  19
+Tempo de atemdimento do cliente:  195.18333333333337
+ID do cliente:  133
+Tempo de atemdimento do cliente:  197.08333333333337
+ID do cliente:  16
+Tempo de atemdimento do cliente:  204.3666666666667
+ID do cliente:  5
+Tempo de atemdimento do cliente:  247.18333333333337
+ID do cliente:  25
+Tempo de atemdimento do cliente:  250.05000000000004
+ID do cliente:  24
+Tempo de atemdimento do cliente:  252.90000000000003
+ID do cliente:  2
+Tempo de atemdimento do cliente:  257.90000000000003
+ID do cliente:  13
+Tempo de atemdimento do cliente:  263.8
+ID do cliente:  14
+Tempo de atemdimento do cliente:  268.1666666666667
+ID do cliente:  29
+Tempo de atemdimento do cliente:  277.18333333333334
+ID do cliente:  33
+Tempo de atemdimento do cliente:  278.4166666666667
+ID do cliente:  30
+Tempo de atemdimento do cliente:  286.95000000000005
+ID do cliente:  128
+Tempo de atemdimento do cliente:  309.75000000000006
+
+Demanda da rota:  71
+Tempo da rota:  357.20000000000005
+Distancia da rota: 159278
+Janela de tempo inicial da rota:  0
+Janela de tempo final da rota:  360
+---------------------------------------------------------
+----------------------------------------
+
+
+Rota:  2
+Tamanho rota:  27
+
+Rota:
+ID do cliente:  38
+Tempo de atemdimento do cliente:  57.03333333333333
+ID do cliente:  58
+Tempo de atemdimento do cliente:  60.88333333333333
+ID do cliente:  46
+Tempo de atemdimento do cliente:  72.11666666666666
+ID do cliente:  59
+Tempo de atemdimento do cliente:  80.88333333333333
+ID do cliente:  37
+Tempo de atemdimento do cliente:  95.38333333333333
+ID do cliente:  214
+Tempo de atemdimento do cliente:  113.08333333333333
+ID do cliente:  61
+Tempo de atemdimento do cliente:  123.1
+ID do cliente:  54
+Tempo de atemdimento do cliente:  136.66666666666666
+ID do cliente:  48
+Tempo de atemdimento do cliente:  146.45
+ID do cliente:  40
+Tempo de atemdimento do cliente:  153.76666666666665
+ID do cliente:  36
+Tempo de atemdimento do cliente:  157.73333333333332
+ID do cliente:  51
+Tempo de atemdimento do cliente:  160.63333333333333
+ID do cliente:  57
+Tempo de atemdimento do cliente:  172.93333333333334
+ID do cliente:  43
+Tempo de atemdimento do cliente:  193.70000000000002
+ID do cliente:  53
+Tempo de atemdimento do cliente:  196.0666666666667
+ID do cliente:  34
+Tempo de atemdimento do cliente:  207.10000000000002
+ID do cliente:  41
+Tempo de atemdimento do cliente:  216.76666666666668
+ID do cliente:  56
+Tempo de atemdimento do cliente:  225.65
+ID do cliente:  35
+Tempo de atemdimento do cliente:  231.26666666666668
+ID do cliente:  42
+Tempo de atemdimento do cliente:  242.23333333333335
+ID do cliente:  39
+Tempo de atemdimento do cliente:  252.46666666666667
+ID do cliente:  44
+Tempo de atemdimento do cliente:  258.95000000000005
+ID do cliente:  50
+Tempo de atemdimento do cliente:  261.6
+ID do cliente:  45
+Tempo de atemdimento do cliente:  268.78333333333336
+ID do cliente:  60
+Tempo de atemdimento do cliente:  273.6666666666667
+ID do cliente:  47
+Tempo de atemdimento do cliente:  293.7166666666667
+ID do cliente:  62
+Tempo de atemdimento do cliente:  311.93333333333334
+
+Demanda da rota:  85
+Tempo da rota:  371.15
+Distancia da rota: 168689
+Janela de tempo inicial da rota:  0
+Janela de tempo final da rota:  360
+---------------------------------------------------------
+----------------------------------------
+
+
+Rota:  3
+Tamanho rota:  28
+
+Rota:
+ID do cliente:  49
+Tempo de atemdimento do cliente:  45.75
+ID do cliente:  55
+Tempo de atemdimento do cliente:  51.65
+ID do cliente:  95
+Tempo de atemdimento do cliente:  92.25
+ID do cliente:  89
+Tempo de atemdimento do cliente:  104.95
+ID do cliente:  71
+Tempo de atemdimento do cliente:  105.96666666666667
+ID do cliente:  77
+Tempo de atemdimento do cliente:  108.85000000000001
+ID do cliente:  92
+Tempo de atemdimento do cliente:  122.43333333333334
+ID do cliente:  94
+Tempo de atemdimento do cliente:  147.56666666666666
+ID do cliente:  83
+Tempo de atemdimento do cliente:  157.66666666666666
+ID do cliente:  75
+Tempo de atemdimento do cliente:  180.93333333333334
+ID do cliente:  79
+Tempo de atemdimento do cliente:  190.96666666666667
+ID do cliente:  78
+Tempo de atemdimento do cliente:  197.96666666666667
+ID do cliente:  90
+Tempo de atemdimento do cliente:  211.06666666666666
+ID do cliente:  91
+Tempo de atemdimento do cliente:  228.36666666666667
+ID do cliente:  80
+Tempo de atemdimento do cliente:  235.43333333333334
+ID do cliente:  87
+Tempo de atemdimento do cliente:  247.88333333333333
+ID do cliente:  67
+Tempo de atemdimento do cliente:  250.01666666666665
+ID do cliente:  70
+Tempo de atemdimento do cliente:  266.15
+ID do cliente:  93
+Tempo de atemdimento do cliente:  274.6166666666666
+ID do cliente:  86
+Tempo de atemdimento do cliente:  283.5333333333333
+ID do cliente:  69
+Tempo de atemdimento do cliente:  285.8333333333333
+ID do cliente:  84
+Tempo de atemdimento do cliente:  289.8666666666667
+ID do cliente:  73
+Tempo de atemdimento do cliente:  294.18333333333334
+ID do cliente:  68
+Tempo de atemdimento do cliente:  295.7166666666667
+ID do cliente:  85
+Tempo de atemdimento do cliente:  299.3833333333334
+ID do cliente:  74
+Tempo de atemdimento do cliente:  304.1833333333334
+ID do cliente:  76
+Tempo de atemdimento do cliente:  311.3166666666667
+ID do cliente:  64
+Tempo de atemdimento do cliente:  321.0666666666667
+
+Demanda da rota:  78
+Tempo da rota:  394.58333333333337
+Distancia da rota: 243379
+Janela de tempo inicial da rota:  0
+Janela de tempo final da rota:  360
+---------------------------------------------------------
+----------------------------------------
+
+
+Rota:  4
+Tamanho rota:  27
+
+Rota:
+ID do cliente:  96
+Tempo de atemdimento do cliente:  62.31666666666667
+ID do cliente:  3
+Tempo de atemdimento do cliente:  71.1
+ID do cliente:  7
+Tempo de atemdimento do cliente:  72.26666666666667
+ID do cliente:  15
+Tempo de atemdimento do cliente:  74.51666666666667
+ID do cliente:  6
+Tempo de atemdimento do cliente:  78.78333333333333
+ID do cliente:  156
+Tempo de atemdimento do cliente:  89.5
+ID do cliente:  106
+Tempo de atemdimento do cliente:  98.61666666666666
+ID do cliente:  97
+Tempo de atemdimento do cliente:  102.66666666666666
+ID do cliente:  72
+Tempo de atemdimento do cliente:  107.88333333333333
+ID do cliente:  82
+Tempo de atemdimento do cliente:  115.23333333333332
+ID do cliente:  143
+Tempo de atemdimento do cliente:  137.39999999999998
+ID do cliente:  110
+Tempo de atemdimento do cliente:  153.73333333333332
+ID do cliente:  121
+Tempo de atemdimento do cliente:  169.66666666666666
+ID do cliente:  116
+Tempo de atemdimento do cliente:  176.83333333333331
+ID do cliente:  111
+Tempo de atemdimento do cliente:  192.46666666666664
+ID do cliente:  131
+Tempo de atemdimento do cliente:  215.31666666666663
+ID do cliente:  99
+Tempo de atemdimento do cliente:  221.66666666666663
+ID do cliente:  114
+Tempo de atemdimento do cliente:  230.66666666666663
+ID do cliente:  98
+Tempo de atemdimento do cliente:  239.24999999999997
+ID do cliente:  101
+Tempo de atemdimento do cliente:  245.81666666666663
+ID do cliente:  103
+Tempo de atemdimento do cliente:  273.94999999999993
+ID do cliente:  120
+Tempo de atemdimento do cliente:  285.88333333333327
+ID do cliente:  118
+Tempo de atemdimento do cliente:  296.4333333333333
+ID do cliente:  119
+Tempo de atemdimento do cliente:  313.66666666666663
+ID do cliente:  113
+Tempo de atemdimento do cliente:  321.6833333333333
+ID do cliente:  115
+Tempo de atemdimento do cliente:  335.69999999999993
+ID do cliente:  109
+Tempo de atemdimento do cliente:  343.6499999999999
+
+Demanda da rota:  71
+Tempo da rota:  420.13333333333327
+Distancia da rota: 180525
+Janela de tempo inicial da rota:  0
+Janela de tempo final da rota:  360
+---------------------------------------------------------
+----------------------------------------
+
+
+Rota:  5
+Tamanho rota:  27
+
+Rota:
+ID do cliente:  12
+Tempo de atemdimento do cliente:  63.38333333333333
+ID do cliente:  18
+Tempo de atemdimento do cliente:  70.31666666666666
+ID do cliente:  8
+Tempo de atemdimento do cliente:  76.2
+ID do cliente:  132
+Tempo de atemdimento do cliente:  90.45
+ID do cliente:  107
+Tempo de atemdimento do cliente:  129.1
+ID do cliente:  126
+Tempo de atemdimento do cliente:  139.85
+ID do cliente:  123
+Tempo de atemdimento do cliente:  146.71666666666667
+ID do cliente:  112
+Tempo de atemdimento do cliente:  156.75
+ID do cliente:  136
+Tempo de atemdimento do cliente:  167.36666666666667
+ID do cliente:  127
+Tempo de atemdimento do cliente:  180.56666666666666
+ID do cliente:  108
+Tempo de atemdimento do cliente:  210.6
+ID do cliente:  125
+Tempo de atemdimento do cliente:  223.16666666666666
+ID do cliente:  129
+Tempo de atemdimento do cliente:  231.11666666666665
+ID do cliente:  117
+Tempo de atemdimento do cliente:  240.06666666666663
+ID do cliente:  130
+Tempo de atemdimento do cliente:  247.71666666666664
+ID do cliente:  124
+Tempo de atemdimento do cliente:  264.15
+ID do cliente:  104
+Tempo de atemdimento do cliente:  277.46666666666664
+ID do cliente:  137
+Tempo de atemdimento do cliente:  281.15
+ID do cliente:  134
+Tempo de atemdimento do cliente:  285.2333333333333
+ID do cliente:  102
+Tempo de atemdimento do cliente:  291.9333333333333
+ID do cliente:  167
+Tempo de atemdimento do cliente:  311.38333333333327
+ID do cliente:  140
+Tempo de atemdimento do cliente:  322.03333333333325
+ID do cliente:  139
+Tempo de atemdimento do cliente:  331.13333333333327
+ID do cliente:  23
+Tempo de atemdimento do cliente:  338.5666666666666
+ID do cliente:  21
+Tempo de atemdimento do cliente:  342.6499999999999
+ID do cliente:  9
+Tempo de atemdimento do cliente:  349.5166666666666
+ID do cliente:  1
+Tempo de atemdimento do cliente:  354.83333333333326
+
+Demanda da rota:  78
+Tempo da rota:  415.8499999999999
+Distancia da rota: 165992
+Janela de tempo inicial da rota:  0
+Janela de tempo final da rota:  360
+---------------------------------------------------------
+----------------------------------------
+
+
+Rota:  6
+Tamanho rota:  32
+
+Rota:
+ID do cliente:  142
+Tempo de atemdimento do cliente:  55.5
+ID do cliente:  52
+Tempo de atemdimento do cliente:  108.28333333333333
+ID do cliente:  100
+Tempo de atemdimento do cliente:  135.65
+ID do cliente:  31
+Tempo de atemdimento do cliente:  140.46666666666667
+ID do cliente:  163
+Tempo de atemdimento do cliente:  149.75
+ID do cliente:  11
+Tempo de atemdimento do cliente:  157.35
+ID do cliente:  165
+Tempo de atemdimento do cliente:  163.78333333333333
+ID do cliente:  144
+Tempo de atemdimento do cliente:  170.53333333333333
+ID do cliente:  161
+Tempo de atemdimento do cliente:  177.41666666666666
+ID do cliente:  152
+Tempo de atemdimento do cliente:  186.18333333333334
+ID do cliente:  164
+Tempo de atemdimento do cliente:  194.23333333333335
+ID do cliente:  122
+Tempo de atemdimento do cliente:  206.98333333333335
+ID do cliente:  141
+Tempo de atemdimento do cliente:  232.38333333333335
+ID do cliente:  172
+Tempo de atemdimento do cliente:  240.50000000000003
+ID do cliente:  153
+Tempo de atemdimento do cliente:  248.6166666666667
+ID do cliente:  171
+Tempo de atemdimento do cliente:  253.05000000000004
+ID do cliente:  154
+Tempo de atemdimento do cliente:  257.6333333333334
+ID do cliente:  162
+Tempo de atemdimento do cliente:  264.4833333333334
+ID do cliente:  166
+Tempo de atemdimento do cliente:  270.61666666666673
+ID do cliente:  147
+Tempo de atemdimento do cliente:  286.21666666666675
+ID do cliente:  173
+Tempo de atemdimento do cliente:  290.2500000000001
+ID do cliente:  150
+Tempo de atemdimento do cliente:  297.1166666666668
+ID do cliente:  146
+Tempo de atemdimento do cliente:  304.43333333333345
+ID do cliente:  149
+Tempo de atemdimento do cliente:  306.7833333333335
+ID do cliente:  159
+Tempo de atemdimento do cliente:  310.3833333333335
+ID do cliente:  145
+Tempo de atemdimento do cliente:  312.5166666666668
+ID do cliente:  155
+Tempo de atemdimento do cliente:  316.1333333333335
+ID do cliente:  170
+Tempo de atemdimento do cliente:  322.10000000000014
+ID do cliente:  17
+Tempo de atemdimento do cliente:  332.90000000000015
+ID do cliente:  63
+Tempo de atemdimento do cliente:  337.8000000000001
+ID do cliente:  160
+Tempo de atemdimento do cliente:  352.63333333333344
+ID do cliente:  174
+Tempo de atemdimento do cliente:  355.18333333333345
+
+Demanda da rota:  106
+Tempo da rota:  418.5333333333335
+Distancia da rota: 168303
+Janela de tempo inicial da rota:  0
+Janela de tempo final da rota:  360
+---------------------------------------------------------
+----------------------------------------
+
+
+Rota:  7
+Tamanho rota:  28
+
+Rota:
+ID do cliente:  177
+Tempo de atemdimento do cliente:  65.06666666666666
+ID do cliente:  200
+Tempo de atemdimento do cliente:  79.25
+ID do cliente:  185
+Tempo de atemdimento do cliente:  93.41666666666667
+ID do cliente:  178
+Tempo de atemdimento do cliente:  103.46666666666667
+ID do cliente:  190
+Tempo de atemdimento do cliente:  115.66666666666667
+ID do cliente:  189
+Tempo de atemdimento do cliente:  135.15
+ID do cliente:  202
+Tempo de atemdimento do cliente:  148.70000000000002
+ID do cliente:  196
+Tempo de atemdimento do cliente:  167.3
+ID do cliente:  176
+Tempo de atemdimento do cliente:  181.33333333333334
+ID do cliente:  180
+Tempo de atemdimento do cliente:  194.95000000000002
+ID do cliente:  182
+Tempo de atemdimento do cliente:  204.95000000000002
+ID do cliente:  187
+Tempo de atemdimento do cliente:  216.50000000000003
+ID do cliente:  213
+Tempo de atemdimento do cliente:  224.65000000000003
+ID do cliente:  210
+Tempo de atemdimento do cliente:  237.3166666666667
+ID do cliente:  191
+Tempo de atemdimento do cliente:  244.48333333333335
+ID do cliente:  206
+Tempo de atemdimento do cliente:  262.5
+ID do cliente:  197
+Tempo de atemdimento do cliente:  276.43333333333334
+ID do cliente:  168
+Tempo de atemdimento do cliente:  285.8833333333333
+ID do cliente:  148
+Tempo de atemdimento do cliente:  297.93333333333334
+ID do cliente:  157
+Tempo de atemdimento do cliente:  303.48333333333335
+ID do cliente:  151
+Tempo de atemdimento do cliente:  310.8666666666667
+ID do cliente:  169
+Tempo de atemdimento do cliente:  317.8833333333333
+ID do cliente:  105
+Tempo de atemdimento do cliente:  325.1333333333333
+ID do cliente:  135
+Tempo de atemdimento do cliente:  328.76666666666665
+ID do cliente:  66
+Tempo de atemdimento do cliente:  338.25
+ID do cliente:  88
+Tempo de atemdimento do cliente:  341.3333333333333
+ID do cliente:  65
+Tempo de atemdimento do cliente:  352.1166666666667
+ID do cliente:  10
+Tempo de atemdimento do cliente:  358.28333333333336
+
+Demanda da rota:  75
+Tempo da rota:  422.4666666666667
+Distancia da rota: 193984
+Janela de tempo inicial da rota:  0
+Janela de tempo final da rota:  360
+---------------------------------------------------------
+----------------------------------------
+
+
+Rota:  8
+Tamanho rota:  24
+
+Rota:
+ID do cliente:  175
+Tempo de atemdimento do cliente:  56.96666666666667
+ID do cliente:  81
+Tempo de atemdimento do cliente:  59.81666666666667
+ID do cliente:  183
+Tempo de atemdimento do cliente:  81.35000000000001
+ID do cliente:  158
+Tempo de atemdimento do cliente:  112.75000000000001
+ID do cliente:  195
+Tempo de atemdimento do cliente:  126.43333333333335
+ID do cliente:  201
+Tempo de atemdimento do cliente:  138.26666666666668
+ID do cliente:  193
+Tempo de atemdimento do cliente:  157.78333333333336
+ID do cliente:  186
+Tempo de atemdimento do cliente:  162.83333333333337
+ID do cliente:  209
+Tempo de atemdimento do cliente:  173.00000000000003
+ID do cliente:  211
+Tempo de atemdimento do cliente:  191.93333333333337
+ID do cliente:  181
+Tempo de atemdimento do cliente:  196.28333333333336
+ID do cliente:  199
+Tempo de atemdimento do cliente:  222.33333333333337
+ID do cliente:  198
+Tempo de atemdimento do cliente:  227.4166666666667
+ID do cliente:  188
+Tempo de atemdimento do cliente:  243.2666666666667
+ID do cliente:  194
+Tempo de atemdimento do cliente:  253.60000000000005
+ID do cliente:  204
+Tempo de atemdimento do cliente:  258.6166666666667
+ID do cliente:  203
+Tempo de atemdimento do cliente:  271.40000000000003
+ID do cliente:  207
+Tempo de atemdimento do cliente:  285.9666666666667
+ID do cliente:  212
+Tempo de atemdimento do cliente:  298.15000000000003
+ID do cliente:  208
+Tempo de atemdimento do cliente:  320.08333333333337
+ID do cliente:  179
+Tempo de atemdimento do cliente:  325.2166666666667
+ID do cliente:  184
+Tempo de atemdimento do cliente:  339.95000000000005
+ID do cliente:  192
+Tempo de atemdimento do cliente:  347.30000000000007
+ID do cliente:  205
+Tempo de atemdimento do cliente:  354.7833333333334
+
+Demanda da rota:  55
+Tempo da rota:  423.7000000000001
+Distancia da rota: 196216
+Janela de tempo inicial da rota:  0
+Janela de tempo final da rota:  360
+---------------------------------------------------------
+----------------------------------------
